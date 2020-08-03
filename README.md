@@ -1,12 +1,20 @@
-# Gender-recognition-from-voice-using-machine-learning
+# Gender Recognition From Voice Using Machine Learning
 
-Voice Gender Recognition Using Machine Learning
+Voice dataset is from kaggle(https://www.kaggle.com/primaryobjects/voicegender), contained 3168 X 21 data
 
-Voice dataset is from kaggle: 
-You can find it here: https://www.kaggle.com/primaryobjects/voicegender
+# Tech Stack
+Python
+Jypter Notebook or Google Colab
 
-This dataset contained 3168 rows and 21 columns
+# Output
 
+### A. Blocks
+
+### B. final_res file (i.e. result file of confusion matrix)
+
+### C. Code of achieved accuracy
+
+# About Dataset
 In this dataset 20 columns represent the acoustic properties of Voice.
 
 •	meanfreq: mean frequency (in kHz)  
