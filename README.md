@@ -12,12 +12,12 @@
 ### A. Blocks
 
 Detailed description of running code and output in terms of blocks on Google Colab platform <br >
-https://github.com/Devanshi512/Gender-Recognition-From-Speech/blob/master/Blocks.ipynb
+https://github.com/Devanshi512/Gender-Recognition-From-Speech/blob/master/GenderRecog.ipynb
 
 ### B. final_res file (i.e. result file of confusion matrix) 
 
-Showing 300 Males and 320 Females are identified correctly by the machine.<br >
-![Alt text](Image/Final_Res.jpg?raw=true "Final_Res file")
+Showing 320 Males and 310 Females are identified correctly by the machine.<br >
+![Alt text](Image/Final_Res.jpeg?raw=true "Final_Res file")
 
 
 ### C. Code of achieved accuracy
