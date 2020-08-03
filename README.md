@@ -1,14 +1,17 @@
 # Gender Recognition From Voice Using Machine Learning
 
-
+ Used Scikit-Learn library with LTSA method for dimension reduction and K-NN classifier algorithm <br >
+ Achieved maximum accuracy of 97.89%
 
 # Tech Stack
-Python
-Jypter Notebook or Google Colab
+ Python<br>
+ Jypter Notebook or Google Colab
 
 # Output
 
-### A. Blocks 
+### A. Blocks
+Detailed description of running code and output in terms of blocks on Google Colab platform
+https://github.com/Devanshi512/Gender-Recognition-From-Speech/blob/master/Blocks.ipynb
 
 ### B. final_res file (i.e. result file of confusion matrix) 
 Showing 300 Males and 320 Females are identified correctly by the machine.
@@ -16,6 +19,8 @@ Showing 300 Males and 320 Females are identified correctly by the machine.
 
 
 ### C. Code of achieved accuracy
+Showing 97.75% accuracy
+![Alt text](Image/Accuracy Result.JPG?raw=true "Accuracy Result")
 
 # About Dataset
 
