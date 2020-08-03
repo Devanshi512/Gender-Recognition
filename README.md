@@ -1,6 +1,6 @@
 # Gender Recognition From Voice Using Machine Learning
 
-Voice dataset is from kaggle(https://www.kaggle.com/primaryobjects/voicegender), contained 3168 X 21 data
+
 
 # Tech Stack
 Python
@@ -8,14 +8,18 @@ Jypter Notebook or Google Colab
 
 # Output
 
-### A. Blocks
+### A. Blocks 
 
-### B. final_res file (i.e. result file of confusion matrix)
+### B. final_res file (i.e. result file of confusion matrix) 
+Showing 300 Males and 320 Females are identified correctly by the machine.
+![Alt text](Image/Final_Res.jpg?raw=true "Final_Res file")
+
 
 ### C. Code of achieved accuracy
 
 # About Dataset
-In this dataset 20 columns represent the acoustic properties of Voice.
+
+Voice dataset is from kaggle(https://www.kaggle.com/primaryobjects/voicegender), contained 3168 X 21 size. In this dataset, 20 columns represent the acoustic properties of Voice.
 
 •	meanfreq: mean frequency (in kHz)  
 •	sd: standard deviation of frequency  
@@ -40,4 +44,3 @@ In this dataset 20 columns represent the acoustic properties of Voice.
 •	modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range  
 
 You can find link here: http://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/
-
