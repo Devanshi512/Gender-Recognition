@@ -11,8 +11,7 @@
 
 ### A. Blocks
 
-Detailed description of running code and output in terms of blocks on Google Colab platform <br >
-https://github.com/Devanshi512/Gender-Recognition-From-Speech/blob/master/GenderRecog.ipynb
+Detailed description of running code and output in terms of blocks on Google Colab platform [GenderRecog.ipynb](https://github.com/Devanshi512/Gender-Recognition-From-Speech/blob/master/GenderRecog.ipynb).
 
 ### B. final_res file (i.e. result file of confusion matrix) 
 
