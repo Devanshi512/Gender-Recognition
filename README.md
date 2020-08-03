@@ -10,17 +10,19 @@
 # Output
 
 ### A. Blocks
-Detailed description of running code and output in terms of blocks on Google Colab platform
+
+Detailed description of running code and output in terms of blocks on Google Colab platform <br >
 https://github.com/Devanshi512/Gender-Recognition-From-Speech/blob/master/Blocks.ipynb
 
 ### B. final_res file (i.e. result file of confusion matrix) 
-Showing 300 Males and 320 Females are identified correctly by the machine.
+
+Showing 300 Males and 320 Females are identified correctly by the machine.<br >
 ![Alt text](Image/Final_Res.jpg?raw=true "Final_Res file")
 
 
 ### C. Code of achieved accuracy
-Showing 97.75% accuracy
-![Alt text](Image/Accuracy Result.JPG?raw=true "Accuracy Result")
+Showing 97.75% accuracy <br >
+![Alt text](Image/Accuracy_Result.JPG?raw=true "Accuracy Result")
 
 # About Dataset
 
